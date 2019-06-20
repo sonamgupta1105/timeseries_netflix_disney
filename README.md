@@ -6,4 +6,4 @@ Conclusion: Netflix seemed to have a loss of 25% on 99% confidence interval, bef
 
 Language: R
 Software: R Studio
-Packages: arima, timeSeries, fgarch, fBasics, ghyp
+Packages: arima, timeSeries, fgarch, fBasics, ghyp, FRAPO
